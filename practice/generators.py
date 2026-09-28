@@ -105,3 +105,8 @@ while True:
 #     print('测试通过!')
 # else:
 #     print('测试失败!')
+
+# 生成器走完就没结果了 生成器是惰性求值生成器存储的只是一个“算到哪了”的游标
+# g = (x for x in range(3))
+# print(list(g))   # [0, 1, 2]
+# print(list(g))   # [] —— 走完了，空了
