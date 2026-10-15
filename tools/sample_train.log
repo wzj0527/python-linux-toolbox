@@ -1,9 +1,5 @@
-Epoch 1/10, step 10, loss=2.3026, acc=0.10
-Epoch 1/10, step 20, loss: 2.1150, acc=0.22
-Epoch 1/10, step 30, loss = 1.9320, acc=0.31
-Epoch 2/10, step 10, loss=1.7455, acc=0.40
-Epoch 2/10, step 20, loss: 1.6012, acc=0.48
-Epoch 2/10, step 30, "loss": 1.4800, acc=0.55
-Epoch 3/10, step 10, loss=1.3521, acc=0.61
-Epoch 3/10, step 20, loss: 1.2105, acc=0.68
-Epoch 3/10, step 30, loss=1.0880, acc=0.72
+step 0 loss=2.5
+step 1 loss=2.1
+step 2 loss=1.8
+step 3 loss=1.5
+step 4 loss=1.2
